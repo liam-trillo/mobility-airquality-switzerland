@@ -17,7 +17,7 @@ We investigate the effect of soft mobility infrastructures (bike lanes, pedestri
 - Soft mobility infrastructures can act as levers for sustainable urban policies.  
 
 ## Repository content
-- `paper/` : full research paper PDF  
+- G16_Papier.pdf: full research paper PDF  
 
 ## Authors
 Liam Trillo, Nina Rindisbacher, Alessandra Failla, Natalia Wyszatycki,
