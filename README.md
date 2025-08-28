@@ -10,7 +10,7 @@ We investigate the effect of soft mobility infrastructures (bike lanes, pedestri
 
 ## Methods
 - Panel econometrics: Fixed Effects, First Differences, Lag models, Dynamic GMM  
-- Tools: Python (pandas, statsmodels), Stata  
+- Tools: Python, Stata  
 
 ## Key findings
 - Green spaces and public transport density significantly reduce NO₂ and PM10 levels.  
