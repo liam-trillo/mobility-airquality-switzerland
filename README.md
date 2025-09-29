@@ -21,4 +21,4 @@ We investigate the effect of soft mobility infrastructures (bike lanes, pedestri
 
 ## Authors
 Liam Trillo, Nina Rindisbacher, Alessandra Failla, Natalia Wyszatycki,
-David Galeano, Hary Andrianjafy (HEC Lausanne, 2024)
+David Galeano, Hary Andrianjafy (HEC Lausanne, 2025)
